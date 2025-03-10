@@ -36,6 +36,7 @@ ansible-playbook site.yml -i inventory/prod.yml
 **Vector**
 
 **Требования**
+
 Linux система x86_64.
 
 **Переменные**
